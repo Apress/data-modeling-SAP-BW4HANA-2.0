@@ -1,0 +1,2 @@
+/********* Create new database schema *********/
+CREATE SCHEMA "BW4TRAINING"; 

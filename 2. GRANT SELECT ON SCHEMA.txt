@@ -1,0 +1,2 @@
+/********* Grant access to _SYS_REPO and SAP user for the schema *********/
+GRANT SELECT ON SCHEMA "BW4TRAINING" TO _SYS_REPO WITH GRANT OPTION;
